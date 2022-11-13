@@ -1,4 +1,7 @@
-const API_URL = "http://localhost:4000";
+import { config } from "dotenv";
+config();
+const API_URL = process.env.API_URL;
+
 window.onload = function () {
   const cargarProductos = document.querySelector("#div-productos");
 
