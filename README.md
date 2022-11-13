@@ -7,6 +7,10 @@ Ejercio postulacion Bsale el cual consiste en la creacion de una tienda web que 
 
 Crear una aplicacion web ,implementando cliente y servidor 
 
+## Despliegue 📦
+
+Aplicacion desplegada en Netlify
+
 ## Construido con 🛠️
 
 * JavaScript - Usado para dar funcionalidad al sitio
