@@ -1,4 +1,4 @@
-# Documentación Frontend prueba Bsale
+# Documentación Frontend
 ## Comenzando 🚀
 
 Ejercio postulacion Bsale el cual consiste en la creacion de una tienda web que obtendra los datos de una api rest , los cuales deberan llegar filtrados al usuario.
