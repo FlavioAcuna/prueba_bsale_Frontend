@@ -1,7 +1,4 @@
-import { config } from "dotenv";
-config();
-const API_URL = process.env.API_URL;
-
+const API_URL = "https://pruebabsalebackend-production.up.railway.app";
 window.onload = function () {
   const cargarProductos = document.querySelector("#div-productos");
 
