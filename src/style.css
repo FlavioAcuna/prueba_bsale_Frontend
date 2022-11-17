@@ -4,10 +4,8 @@ img {
   object-fit: scale-down;
 }
 .card {
-  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
-
+  box-shadow: 0px 5px 5px rgb(0, 0, 0, 0.3);
 }
-.btn_rd{
+.btn_rd {
   border-radius: 50%;
 }
-
